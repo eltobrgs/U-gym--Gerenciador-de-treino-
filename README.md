@@ -25,5 +25,3 @@
 - **[React Navigation](https://reactnavigation.org/)**: Navegação entre telas.
 - **[Expo CLI](https://docs.expo.dev/workflow/expo-cli/)**: Ferramenta para gerenciamento do projeto.
 - **[Expo Go](https://expo.dev/client)**: Teste do app diretamente no dispositivo.
-
----

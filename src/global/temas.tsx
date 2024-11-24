@@ -10,3 +10,16 @@ export const temas = {
         bgCard: '#fff',
     }
 }
+
+// export const temas = {
+//     cores: {
+//         primaria: '#FF3B3B', // vermelho vibrante
+//         secundaria: '#E63946', // vermelho mais escuro e elegante
+//         lightgray: '#4E4E4E', // cinza claro para contrastar com o fundo
+//         gray: '#2C2C2C', // cinza neutro para superfícies secundárias
+//         darkgray: '#1A1A1A', // quase preto para profundidade
+//         insideGray: '#333333', // tom intermediário para áreas internas
+//         bgScreen: '#121212', // fundo principal do app (preto suave)
+//         bgCard: '#1E1E1E', // fundo de cartões e áreas destacadas
+//     }
+// }

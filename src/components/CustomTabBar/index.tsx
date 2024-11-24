@@ -35,7 +35,7 @@ const CustomTabBar: React.FC<Props> = ({ state, navigation }) => {
                     <Entypo name="plus" style={{ fontSize: 35, color: "#fff" }} />
                 </View>
                 <View style={{ width: "100%", flexDirection: "row-reverse", right: 10, bottom: 10 }}>
-                    <MaterialCommunityIcons name="dumbbell" style={{ fontSize: 30, color: "#fff" }} />
+                    <MaterialIcons name="edit" style={{ fontSize: 30, color: "#fff" }} />
                 </View>
             </TouchableOpacity>
 

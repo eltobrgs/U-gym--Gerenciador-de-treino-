@@ -15,6 +15,7 @@ export const style = StyleSheet.create({
         // alignItems:'center',
         justifyContent:'center',
         paddingHorizontal:20,
+        borderRadius:15
         
     },
     greeting:{
@@ -39,12 +40,12 @@ export const style = StyleSheet.create({
         justifyContent:'center',
         padding:10,
         borderWidth:1,
-        borderColor:temas.cores.lightgray
+        borderColor:temas.cores.primaria
     },
     rowCard:{
         flexDirection:'row',
         alignItems:'center',
-        justifyContent:'space-between'
+        justifyContent:'space-between',
     },
     titleCard:{
         fontSize:16,
@@ -71,5 +72,6 @@ export const style = StyleSheet.create({
         color: 'white',
         fontWeight: 'bold',
     },
+    
     
 })
